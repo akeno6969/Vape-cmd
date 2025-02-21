@@ -1,0 +1,22 @@
+## Vape Multi-Tool Menu
+
+A terminal-based multi-tool menu that mimics the style of **Vape's**, featuring **ASCII art, multi-colored text, and a bordered UI**.
+
+##  Features
+- **ASCII Art Banner** at the top.
+- **Multi-colored UI** (White, grey and black).
+- **Bordered Menu Sections** for a structured look.
+- **Numbered Options** (many options).
+- **Watermarks & Discord Link** for branding.
+
+## Installation
+
+### Install Python
+Ensure Python is installed on your system. Download it from [python.org](https://www.python.org/).
+
+### Install Dependencies
+Run the following command to install the required packages,
+or you can run the bat file to install everything.
+
+```sh
+pip install colorama
